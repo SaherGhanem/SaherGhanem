@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, Hi, I’m @SaherGhanem</h1>
-<h1 align="center">Hi 👀 I’m interested in Embededd Systems</h1>
-<h1 align="center">🌱 Embedded Software Trainee at information Technology Institute (ITI)</h1>
-<h3 align="center">Embedded Software Engineer</h3>
+<h2 align="center">Hi 👋, Hi, I’m @SaherGhanem</h2>
+<h3 align="center">Hi 👀 I’m interested in Embededd Systems</h3>
+<h3 align="center">🌱 Embedded Software Trainee at information Technology Institute (ITI)</h3>
 
-<p align="left"> <img src="https://www.linkedin.com/in/saher-ghanem-40baa0168/&label=Profile%20views&color=0e75b6&style=flat" alt="SaherGhanem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaherGhanem&label=Profile%20views&color=0e75b6&style=flat" alt="SaherGhanem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/SaherGhanem" alt="SaherGhanem" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaherGhanem" alt="SaherGhanem" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saher-ghanem-40baa0168/" target="blank"><img align="center" src="https://www.linkedin.com/in/saher-ghanem-40baa0168/" alt="https://www.linkedin.com/in/saher-ghanem-40baa0168/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saher-ghanem-40baa0168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@SaherGhanem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/SaherGhanem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/SaherGhanem/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@SaherGhanem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@SaherGhanem" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ languages and tools
