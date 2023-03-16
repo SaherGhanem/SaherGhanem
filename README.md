@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, Hi, I’m @SaherGhanem</h2>
-<h3 align="center">Hi 👀 I’m interested in Embededd Systems</h3>
+<h2 align="center">👋, Hi, I’m @SaherGhanem</h2>
+<h3 align="center">👀 I’m interested in Embededd Systems</h3>
 <h3 align="center">🌱 Embedded Software Trainee at information Technology Institute (ITI)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaherGhanem&label=Profile%20views&color=0e75b6&style=flat" alt="SaherGhanem" /> </p>
