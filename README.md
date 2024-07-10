@@ -19,7 +19,7 @@
  <p align="center">
  
 - **Embedded Software Engineer at Valeo.**
-- **Enthusiastic learner focused on Embedded Linux Engineer.**
+- **Enthusiastic learner focused on Embedded Linux.**
 - **Embedded Systems Graduateded from Information Technology Institute (ITI) 9-month diploma.**
 - **Graduate from Faculty of Engineerin at Mansoura University in 2021 (Finished it in only 4 years👌🎖️).**
 
